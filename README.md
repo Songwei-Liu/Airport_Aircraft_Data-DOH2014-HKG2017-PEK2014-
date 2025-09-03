@@ -21,6 +21,7 @@ To match the routing and scheduling task of taxiing aircraft with real-world sce
    * DOH: 16 March 2014 from 17:00 to 23:00
    * HKG: 17 January 2017 from 0:00 to 24:00
    * PEK: 9 July 2014 from 9:00 to 14:00
+   * Download datasets via https://www.dropbox.com/scl/fi/1eojq7fce2kyoyrx68axy/main_data.zip?rlkey=ibp6o7b7c8pvtzjj0o57svjoa&st=9ztwi5rv&dl=0. After decompressing the downloaded file, paste the file folder to the same path where other Python files are stored in your PC.
 
 For detailed statistics on these three instance datasets, refer to Table 3 in [3].
 During the above three periods, three airports only had operating aircraft in medium and heavy categories, and it is why the light weight category is not considered when generating speed profiles.
