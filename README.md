@@ -2,9 +2,9 @@
 * [Copyright]: Intelligent Systems Engineering (ISE) research team at Queen Mary, University of London. https://www.qmul.ac.uk/intelligentsystems/
 * [Notes]:     Shared open-source data is for academic purposes only and should not be used for commercial activities or other events that may have adverse effects on the public interest.
 
-Welcome to discuss and collaborate! Edited by Songwei Liu (https://orcid.org/0000-0002-9892-0918) in August 2025.
-
 Thank you for your attention and interests in constructing airport taxiway networks as multigraphs via taking speed profiles into account.
+
+Welcome to discuss and collaborate! Edited by Songwei Liu (https://orcid.org/0000-0002-9892-0918) in August 2025.
 
 
 ####### Overall Introduction #######
